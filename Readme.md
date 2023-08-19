@@ -4,7 +4,6 @@ Hyperspectral Image Classification through Res2DCLSTM
 # Illustration
 We combined 2DCNN with Batch Normalization and shortcut 2D CNN connection, Resnet and LSTM model added and they helped to overcome all the challenges which are faced during exclusively and severally applying all the supervised models at the time of Hyperspectral image classification.
 
-
 ## Prerequisites
 We have implemented this method on Google Colab. The version of Keras is 2.4.3, version of Python is 3.6.9 and version of Tensor flow is 2.3.1.
 ## How to run the code
@@ -21,4 +20,4 @@ We got three different types of hyperspectral datasets namely Indian Pines, Pavi
 from the site: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes  
 
 ## Please cite the original publication if you utilize Res2DCLSTM and HSI-Survey code in your research.
-Banerjee, Anasua, and Debajyoty Banik. "Resnet Based Hybrid Convolution LSTM for Hyperspectral Image Classification" Multimedia Tools and Applications (2023).
+Banerjee Anasua, and Banik Debajyoty. "Resnet Based Hybrid Convolution LSTM for Hyperspectral Image Classification" Multimedia Tools and Applications (2023).
