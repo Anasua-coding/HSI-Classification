@@ -20,5 +20,5 @@ need to copy that id from google drive and subsequently paste it on google colab
 We got three different types of hyperspectral datasets namely Indian Pines, Pavia University and Botswana.
 from the site: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes  
 
-## Cite: Please cite the original publication if you utilize Res2DCLSTM and HSI-Survey code in your research.
+## Please cite the original publication if you utilize Res2DCLSTM and HSI-Survey code in your research.
 Banerjee, Anasua, and Debajyoty Banik. "Resnet Based Hybrid Convolution LSTM for Hyperspectral Image Classification" Multimedia Tools and Applications (2023).
